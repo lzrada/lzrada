@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 # Hi, I'm Muhammad Lazuardi! 👋
+
+I'm a passionate **Front-End Developer** with a deep interest in creating user-friendly, efficient, and visually engaging web applications. Skilled in HTML, CSS, JavaScript, and modern front-end frameworks, I enjoy building responsive and accessible web interfaces. Additionally, I focus on developing projects that enhance user experience and accessibility in web development.
 
 ### My Tech Stack
 
@@ -22,16 +25,61 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white)
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white)
 
-## Frameworks
+---
+
+## Frameworks & Libraries
+
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue-dot-js&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next-dot-js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
-## Backend
+---
+
+## Backend & Full-Stack Technologies
+
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node-dot-js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
 
+---
 
 ## Databases
+
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 
+---
 
+## Tools & Others
+
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+![NPM](https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white)
+
+---
+
+### 🌱 I’m currently learning
+
+- Advanced **React** techniques (including **Hooks** and **Context API**)
+- **TypeScript** for better code quality and scalability
+- **RESTful API** and **GraphQL** for efficient data fetching
+
+### 🔭 I’m currently study at
+
+- Balitar Islamic University majoring in informatics engineering. 
+
+### 📫 How to reach me
+
+- Email: [lazuardialghifary53@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/lazuardi-al-ghiffary/]
+- Instagram: [https://www.instagram.com/lzrfalda/]
+
+---
+
+Thanks for visiting! 😊 Feel free to explore my repositories and reach out if you'd like to collaborate on a project!
