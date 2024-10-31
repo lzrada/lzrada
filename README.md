@@ -25,6 +25,10 @@ I'm a passionate **Front-End Developer** with a deep interest in creating user-f
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white)
 
@@ -44,6 +48,9 @@ I'm a passionate **Front-End Developer** with a deep interest in creating user-f
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node-dot-js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+
 
 ---
 
@@ -59,6 +66,8 @@ I'm a passionate **Front-End Developer** with a deep interest in creating user-f
 
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white)
 
@@ -83,3 +92,6 @@ I'm a passionate **Front-End Developer** with a deep interest in creating user-f
 ---
 
 Thanks for visiting! 😊 Feel free to explore my repositories and reach out if you'd like to collaborate on a project!
+
+
+[![](https://visitcount.itsvg.in/api?id=lazzghi&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
