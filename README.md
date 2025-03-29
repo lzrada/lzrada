@@ -26,7 +26,6 @@ I'm a passionate **Front-End Developer** with a deep interest in creating user-f
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white)
 
@@ -43,12 +42,8 @@ I'm a passionate **Front-End Developer** with a deep interest in creating user-f
 
 ## Backend & Full-Stack Technologies
 
-
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node-dot-js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
-
 
 ---
 
@@ -71,25 +66,46 @@ I'm a passionate **Front-End Developer** with a deep interest in creating user-f
 
 ---
 
+## Mobile Development
+
+I’m also exploring **Mobile Development** using:
+  
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
+![Expo](https://img.shields.io/badge/-Expo-000000?logo=expo&logoColor=white)
+
+---
+
+## Additional Services
+
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
+
+---
+
 ### 🌱 I’m currently learning
 
 - Advanced **React** techniques (including **Hooks** and **Context API**)
 - **TypeScript** for better code quality and scalability
 - **RESTful API** and **GraphQL** for efficient data fetching
+- **Mobile Development** with **Flutter** and **Expo**
+- **Firebase** for backend services and real-time database
 
-### 🔭 I’m currently study at
+### 🔭 I’m currently studying at
 
-- Balitar Islamic University majoring in informatics engineering. 
+- Balitar Islamic University, majoring in Informatics Engineering
+
+### ⚡ Fun fact
+
+- I love exploring new technologies and I’m always eager to learn something new.  
+- Outside of coding, I'm a big fan of coffee and enjoy experimenting with different brewing methods!
 
 ### 📫 How to reach me
 
-- Email: [lazuardialghifary53@gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/lazuardi-al-ghiffary/]
-- Instagram: [https://www.instagram.com/lzrfalda/]
+- **Email**: [lazuardialghifary53@gmail.com](mailto:lazuardialghifary53@gmail.com)
+- **LinkedIn**: [https://www.linkedin.com/in/lazuardi-al-ghiffary/](https://www.linkedin.com/in/lazuardi-al-ghiffary/)
+- **Instagram**: [https://www.instagram.com/lzrfalda/](https://www.instagram.com/lzrfalda/)
 
 ---
 
 Thanks for visiting! 😊 Feel free to explore my repositories and reach out if you'd like to collaborate on a project!
-
 
 [![](https://visitcount.itsvg.in/api?id=lazzghi&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
